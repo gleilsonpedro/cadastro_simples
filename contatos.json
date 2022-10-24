@@ -1,0 +1,98 @@
+{
+    "1": {
+        "Status": true,
+        "Nome": "Henrique",
+        "Telefone": "78774123",
+        "Endereço": "Rua do Python"
+    },
+    "2": {
+        "Status": false,
+        "Nome": "Jairo Bolson",
+        "Telefone": "321654987",
+        "Endereço": "Rua Das Brazilhas"
+    },
+    "3": {
+        "Status": false,
+        "Nome": "Luiz Inacio",
+        "Telefone": "45786327",
+        "Endereço": "Av. Faria Lima"
+    },
+    "4": {
+        "Status": false,
+        "Nome": "Maria Estenislandia",
+        "Telefone": "321654987",
+        "Endereço": "Av. Bagaceira"
+    },
+    "5": {
+        "Status": false,
+        "Nome": "Juliana",
+        "Telefone": "41230578",
+        "Endereço": "Rua das Flores"
+    },
+    "6": {
+        "Status": false,
+        "Nome": "Renato Silva",
+        "Telefone": "321654-321654",
+        "Endereço": "Rua Dos Remedios Naturais"
+    },
+    "7": {
+        "Status": false,
+        "Nome": "Carol Studart Lenon",
+        "Telefone": "32165498",
+        "Endereço": "Rua Amsterdan"
+    },
+    "8": {
+        "Status": true,
+        "Nome": "Renato Santos Alves",
+        "Telefone": "654987",
+        "Endereço": "Rua Jabaquara"
+    },
+    "9": {
+        "Status": true,
+        "Nome": "Pedro Fernandes",
+        "Telefone": "8585858599",
+        "Endereço": "Rua Desembargador Prax"
+    },
+    "10": {
+        "Status": true,
+        "Nome": "Tony Stark",
+        "Telefone": "888698552",
+        "Endereço": "Florida"
+    },
+    "11": {
+        "Status": true,
+        "Nome": "Beto Carneiro",
+        "Telefone": "321654987",
+        "Endereço": "Transilvânia"
+    },
+    "12": {
+        "Status": true,
+        "Nome": "Thor Buxudo",
+        "Telefone": "7748745874",
+        "Endereço": "Asgard"
+    },
+    "13": {
+        "Status": true,
+        "Nome": "João Gordo",
+        "Telefone": "333666999",
+        "Endereço": "Rua Dos Ratos De Porão"
+    },
+    "14": {
+        "Status": true,
+        "Nome": "Carol Silva Santos",
+        "Telefone": "321321321",
+        "Endereço": "Rua Das Carolinas"
+    },
+    "15": {
+        "Status": true,
+        "Nome": "Ratolino Pedro",
+        "Telefone": "321654",
+        "Endereço": "Não Informado"
+    },
+    "16": {
+        "Status": true,
+        "Nome": "Guabiru Antilope",
+        "Telefone": "321654",
+        "Endereço": "Não Informado"
+    }
+}
