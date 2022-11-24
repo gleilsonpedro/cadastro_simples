@@ -2,7 +2,7 @@ import os
 import json
 from func_des_cad import *
 from tabulate import tabulate
-from tkinter import *
+
 
 
 
